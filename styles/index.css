@@ -102,4 +102,7 @@ body {
   .brand_slogan {
     font-size: 1.5rem;
   }
+  .digit {
+    font-size: 8rem;
+  }
 }
