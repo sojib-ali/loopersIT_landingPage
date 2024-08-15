@@ -68,7 +68,7 @@ body {
 }
 .time_limit {
   display: flex;
-  flex-wrap: wrap;
+  /* flex-wrap: wrap; */
   flex-direction: column;
 }
 .digit {
