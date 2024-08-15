@@ -90,6 +90,7 @@ body {
   text-align: center;
   display: inline-block;
   margin-top: 0.5rem;
+  margin-bottom: 1rem;
 }
 
 @media screen and (max-width: 500px) {
@@ -104,5 +105,6 @@ body {
   }
   .digit {
     font-size: 8rem;
+    padding-bottom: 1rem;
   }
 }
