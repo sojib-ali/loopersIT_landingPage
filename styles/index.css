@@ -3,7 +3,7 @@ body {
   margin: 0;
   font-family: "Inter", sans-serif;
 
-  font-optical-sizing: auto;
+  /* font-optical-sizing: auto; */
   color: #fff;
 }
 
@@ -75,7 +75,7 @@ body {
   font-family: "Digital-7 Mono", sans-serif;
   background: #fff;
   color: black;
-  font-size: 128px;
+  font-size: 10rem;
   font-weight: 400;
   text-align: center;
   padding: 0.5rem;
